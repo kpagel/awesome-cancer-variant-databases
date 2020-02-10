@@ -44,6 +44,7 @@ of genetic variation on drug response for clinicians and researchers. [web app, 
 ## Annotation tools and software
 
 - [PCGR](https://github.com/sigven/pcgr) - The Personal Cancer Genome Reporter (PCGR) is a stand-alone software package for functional annotation and translation of individual cancer genomes for precision oncology. It interprets both somatic SNVs/InDels and copy number aberrations. The software extends basic gene and variant annotations from the Ensembl’s Variant Effect Predictor (VEP) with oncology-relevant, up-to-date annotations retrieved flexibly through vcfanno, and produces interactive HTML reports intended for clinical interpretation. - [Software tool]
+- [OpenCRAVAT](https://opencravat.org/) The Open Custom Ranked Analysis of VAriants Toolkit (OpenCRAVAT) is an open source, scalable decision support system to support variant and gene prioritization. It offers both commmand line utilities and a dynamic GUI, allowing users to explore results in a richly detailed viewing environment. Resources in OpenCRAVAT "app store" span germline, somatic, common, rare, coding and non-coding variants -- the catalog is being actively developed and growing larger every month.
 
 ## Variant Effect Prediction tools and databases
 
